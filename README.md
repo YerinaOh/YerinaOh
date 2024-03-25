@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![Yerina Oh's GitHub stats](https://github-readme-stats.vercel.app/api?username=YerinaOh&show_icons=true&theme=radical)
+
 <!--
 **YerinaOh/YerinaOh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
