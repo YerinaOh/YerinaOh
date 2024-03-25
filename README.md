@@ -2,6 +2,9 @@
 
 ![Yerina Oh's GitHub stats](https://github-readme-stats.vercel.app/api?username=YerinaOh&show_icons=true&theme=radical)
 
+## Role
+iOS Developer / Payment / Player / TPM
+
 ## Tools
 ![Blogger](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
