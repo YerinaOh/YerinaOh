@@ -1,7 +1,8 @@
 ### Yerina Oh Git Space
 
+<!--
 ![Yerina Oh's GitHub stats](https://github-readme-stats.vercel.app/api?username=YerinaOh&show_icons=true&theme=radical)
-
+-->
 ## Role
 iOS Developer / Payment / Player / TPM
 
